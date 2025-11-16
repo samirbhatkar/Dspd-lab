@@ -1,4 +1,4 @@
-//SarthakGore-IT-B-172
+//Samir Bhatkar-IT-B-170
 #include <stdio.h>
 #include <string.h>
 
@@ -40,4 +40,5 @@ int main() {
         printf("%d\t%s\t%d\t%.2f\n", s[i].roll, s[i].name, s[i].age, s[i].avgMarks);
     }
     return 0;
+
 }
