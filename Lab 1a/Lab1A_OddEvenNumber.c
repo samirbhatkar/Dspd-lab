@@ -1,4 +1,4 @@
-//SarthakGore-IT-B-172
+//samir bhatkar-B-170
 #include <stdio.h>
 int main() {
     int n, i;
@@ -19,4 +19,5 @@ int main() {
     printf("\nSum of numbers at odd positions: %d", sumOdd);
     printf("\nSum of numbers at even positions: %d\n", sumEven);
     return 0;
+
 }
