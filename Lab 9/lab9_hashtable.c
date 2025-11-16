@@ -1,4 +1,4 @@
-//SarthakGore-IT-B-172
+//Samir Bhatkare-IT-B-170
 #include <stdio.h>
 
 #define SIZE 7
@@ -43,3 +43,4 @@ int main() {
 
     return 0;
 }
+
