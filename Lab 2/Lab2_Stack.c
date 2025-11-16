@@ -1,4 +1,4 @@
-//SarthakGore-IT-B-172
+//Samir bhatkar-IT-B-170
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 100
@@ -140,3 +140,4 @@ void checkUnderflow() {
     printf("Trying to pop element from empty stack...\n");
     pop();
 }
+
