@@ -1,4 +1,4 @@
-//SarthakGore-IT-B-172
+//Samir Bhatkar-IT-B-170
 #include <stdio.h>
 #define MAX 100
 struct Edge {
@@ -74,3 +74,4 @@ int main() {
 
     return 0;
 }
+
