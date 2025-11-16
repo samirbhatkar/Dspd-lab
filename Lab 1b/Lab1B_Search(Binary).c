@@ -1,4 +1,4 @@
-//SarthakGore-IT-B-172
+//Samir Bhatkar-IT-B-170
 #include <stdio.h>
 int* binarySearch(int arr[], int n, int key) {
     if (arr == NULL || n <= 0) {
@@ -38,4 +38,5 @@ int main() {
     else
         printf("Element not found or invalid list.\n");
     return 0;
+
 }
